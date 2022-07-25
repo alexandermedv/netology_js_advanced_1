@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandermedv/netology_js_advanced_1.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandermedv/netology_js_advanced_1/issues"
+  },
+  "homepage": "https://github.com/alexandermedv/netology_js_advanced_1#readme"
+}
